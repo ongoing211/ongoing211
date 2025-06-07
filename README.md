@@ -10,5 +10,5 @@
 
 Rock-paper-scissors: https://github.com/ongoing211/Rock-Paper-Scissors.git
 
-**PHP**: https://github.com/ongoing211/ATON-test-assignment.git
+PHP: https://github.com/ongoing211/ATON-test-assignment.git
 
